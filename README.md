@@ -11,12 +11,14 @@ The motivation for this project was to first and foremost, refactor the code so 
 - Go [HERE](https://github.com/PeterMoDavis/horiseon-refactor)
 - Press the green Code button and copy the SSH.
 - Open your Command Line and type "git clone 'paste-your-ssh-here'"
+- Open the folder with your code editor.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-`md ![alt text](assets/images/screenshot.png) `
+![alt text](./assets/images/header.png "the header and background image")
+![alt text](./assets/images/main.png "the main content")
+
+Click on the links in the top right corner of the header and you will be brought to the corresponding section in the main content.
 
 ## Credits
 
