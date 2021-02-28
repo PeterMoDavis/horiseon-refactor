@@ -9,7 +9,6 @@ body {
 }
 
 /* ===HEADER=== */
-
 .header {
   background-color: #2a607c;
   color: #ffffff;
@@ -17,12 +16,12 @@ body {
     "Lucida Sans", Arial, sans-serif;
   padding: 20px;
 }
-
+/* brand/header */
 .header h1 {
   display: inline-block;
   font-size: 48px;
 }
-
+/* seo span */
 .header h1 .seo {
   color: #d9dcd6;
 }
@@ -34,11 +33,11 @@ body {
   margin-right: 20px;
   padding-top: 15px;
 }
-
+/* unordered list */
 .header nav ul {
   list-style-type: none;
 }
-
+/* links */
 .header nav ul li {
   display: inline-block;
   margin-left: 25px;
@@ -50,7 +49,6 @@ a {
 }
 
 /* figure/background image */
-
 .hero {
   background-image: url("../images/digital-marketing-meeting.jpg");
   background-position: center;
@@ -62,7 +60,6 @@ a {
 /* header end */
 
 /* ====MAIN CONTENT==== */
-
 .content {
   display: inline-block;
   margin-left: 20px;
@@ -115,17 +112,20 @@ a {
   color: #ffffff;
   margin-bottom: 32px;
 }
-
+/* header */
 .all-benefits h3 {
   margin-bottom: 10px;
   text-align: center;
 }
-
+/* images */
 .all-benefits img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
+/* end main */
+
+/* ==FOOTER== */
 
 .footer {
   clear: both;
@@ -134,7 +134,7 @@ a {
   padding: 30px;
   text-align: center;
 }
-
-.footer h2 {
+/* copyright */
+.footer h4 {
   font-size: 20px;
 }
