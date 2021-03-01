@@ -6,6 +6,8 @@
 
 The motivation for this project was to first and foremost, refactor the code so that it is more accessible to those with disabilities while simultaneously optimizing search engine visibility by adding semantic elements. It was also to consolidate redundant code to increase performance of the application. While I working through the project I become more comfortable using different semantic elements and looking at code that is not mine. I also am realizing that there is more than one right answer even if you are structuring more basic HTML and CSS.
 
+You can see the application [HERE](https://petermodavis.github.io/horiseon-refactor/)
+
 ## Installation
 
 - Go [HERE](https://github.com/PeterMoDavis/horiseon-refactor)
